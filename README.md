@@ -8,6 +8,14 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ## Screenshots
 
+[YInkie Theme Dark](./themes/YInkieTheme_Dark.json) from [@TrinkieYinkie](https://github.com/TrinkieYinkie)
+
+![YInkie Theme Dark](screenshots/YInkieTheme_Dark.png)
+
+[YInkie Theme Light](./themes/YInkieTheme_Light.json) from [@TrinkieYinkie](https://github.com/TrinkieYinkie)
+
+![YInkie Theme Light](screenshots/YInkieTheme_Light.png)
+
 [ForkDark](./themes/ForkDark.json) from [@carun](https://github.com/carun)
 
 ![ForkDark](screenshots/ForkDark.png)
