@@ -24,7 +24,7 @@
     "Diff.DeletedHighlight": "#ff9999",
     "SystemAccentColor": "#6f8396",
     "Link": "#1c71d7",
-    "HistoryBG": "#ffffff"
+    "SubPanel": "#ffffff"
   },
   "GraphPenThickness": 2,
   "OpacityForNotMergedCommits": 0.5,
